@@ -3,8 +3,8 @@ import Text from "../../Text";
 
 function Button({ data }) {
   return (
-    <>
-      {data.link ? (
+    <h1>Hellowoowowowereior</h1>
+      {/* {data.link ? (
         <Text
           as="a"
           highlightedText={data.highlightWords ? data.highlightWords : []}
@@ -34,8 +34,7 @@ function Button({ data }) {
         >
           {data.title}
         </Text>
-      )}
-    </>
+      )} */}
   );
 }
 export default Button;
