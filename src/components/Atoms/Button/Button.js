@@ -1,6 +1,10 @@
 import React from "react";
 
 function Button({ data }) {
-  return <h1>Hellowoowowowereior</h1>;
+  return (
+    <div className="">
+      <div className="">hello world</div>
+    </div>
+  );
 }
 export default Button;
